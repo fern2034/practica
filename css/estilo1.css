@@ -1,0 +1,33 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+}
+
+.tarjeta {
+    width: 300px;
+    margin: 20px auto;
+    padding: 0px;
+    background-color: #f0f0f0;
+    box-shadow: 0 0 4px 4px #ccc; /* sombra con radius y spread de 4px, color gris claro */
+}
+
+.titulo {
+    background-color: #666;
+    color: #fff;
+    font-size: 25px; /* 1.5 veces el tamaño por defecto */
+    padding: 10px;
+    text-align: center;
+}
+
+.body {
+    font-style: italic;
+    padding: 5px;
+    text-align:justify;
+}
+
+.foot {
+    background-color: #ddd;
+    color: #000000;
+    padding: 8px;
+    text-align: center;
+}
